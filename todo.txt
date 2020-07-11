@@ -1,1 +1,1 @@
-todo:add a test module return a connection speed
+todo:add a test module return connection speeds
