@@ -1,0 +1,1 @@
+todo:add a test module return a connection speed
